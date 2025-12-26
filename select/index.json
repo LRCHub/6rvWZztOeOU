@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "LAZULI*",
+  "base_artist": "THE BINARY",
+  "createdAt": "2025-12-26T14:53:57.333633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lazuli",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/01_Lazuli_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (feat. Zach Callison)",
+      "artist": "Steven Universe feat. Zach Callison",
+      "has_synced": true,
+      "path": "select/02_Lapis_Lazuli_(feat._Zach_Callison)_Steven_Universe_feat._Zach_Callison.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (Live Re Blue)",
+      "artist": "Eir Aoi",
+      "has_synced": false,
+      "path": "select/03_Lapis_Lazuli_(Live_Re_Blue)_Eir_Aoi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (feat. Zach Callison)",
+      "artist": "Steven Universe",
+      "has_synced": true,
+      "path": "select/04_Lapis_Lazuli_(feat._Zach_Callison)_Steven_Universe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (Arslan Senki)",
+      "artist": "Miku-tan feat. Amalee",
+      "has_synced": true,
+      "path": "select/05_Lapis_Lazuli_(Arslan_Senki)_Miku-tan_feat._Amalee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (Arslan Senki)",
+      "artist": "Miku-tan & AmaLee",
+      "has_synced": true,
+      "path": "select/06_Lapis_Lazuli_(Arslan_Senki)_Miku-tan_&_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (Arslan Senki)",
+      "artist": "Miku-tan",
+      "has_synced": true,
+      "path": "select/07_Lapis_Lazuli_(Arslan_Senki)_Miku-tan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (Arslan Senki)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/08_Lapis_Lazuli_(Arslan_Senki)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lazuli",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/09_Lazuli_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lapis Lazuli",
+      "artist": "The Oh Hellos",
+      "has_synced": true,
+      "path": "select/10_Lapis_Lazuli_The_Oh_Hellos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Magician's Lapis-Lazuli",
+      "artist": "Absu",
+      "has_synced": false,
+      "path": "select/11_A_Magician's_Lapis-Lazuli_Absu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Palm the Eye and Lapis Lazuli",
+      "artist": "Melechesh",
+      "has_synced": true,
+      "path": "select/12_The_Palm_the_Eye_and_Lapis_Lazuli_Melechesh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lapis Lazuli",
+      "artist": "Aoi Eir",
+      "has_synced": true,
+      "path": "select/13_Lapis_Lazuli_Aoi_Eir.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lapis Lazuli",
+      "artist": "bohemianvoodoo",
+      "has_synced": false,
+      "path": "select/14_Lapis_Lazuli_bohemianvoodoo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lapis Lazuli (feat. Zach Callison)",
+      "artist": "Steven Universe;Zach Callison",
+      "has_synced": true,
+      "path": "select/15_Lapis_Lazuli_(feat._Zach_Callison)_Steven_Universe;Zach_Callison.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lapis Lazuli",
+      "artist": "AKIHIDE",
+      "has_synced": false,
+      "path": "select/16_Lapis_Lazuli_AKIHIDE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAZULI*",
+      "artist": "THE BINARY",
+      "has_synced": false,
+      "path": "select/pl_01_LAZULI_THE_BINARY.txt"
+    }
+  ]
+}
